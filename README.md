@@ -4,8 +4,7 @@
 
 A reproducible Python/Jupyter analysis of simulated cloud-server power consumption for **STW7089CEM — Introduction to Statistical Methods for Data Science**.
 
-**Author:** Manav Paudel  
-**Student ID:** 260543  
+**Author:** Manav Paudel    
 **Institution:** Softwarica College of IT & E-Commerce, in collaboration with Coventry University
 
 ## Project overview
