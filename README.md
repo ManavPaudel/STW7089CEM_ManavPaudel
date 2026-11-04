@@ -105,7 +105,7 @@ python -m pip install notebook numpy pandas matplotlib seaborn scipy scikit-lear
    jupyter notebook
    ```
 
-4. Open `Jupyter_Notebook.ipynb`.
+4. Open `ManavPaudel_260543.ipynb`.
 5. Choose **Kernel → Restart & Run All** (the wording may vary by Jupyter version). Execute the notebook **from top to bottom**, because later cells depend on variables created earlier. For example, the Gaussian log-likelihood calculation uses `residual_data` and `rss_df` from the preceding RSS section.
 6. Review the plots and numerical outputs under each task heading.
 
