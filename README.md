@@ -99,7 +99,7 @@ python -m pip install notebook numpy pandas matplotlib seaborn scipy scikit-lear
 
 1. Clone the repository (or download the project as a ZIP).
 2. Put `x.csv`, `y.csv`, and `time.csv` in the same directory as `Jupyter_Notebook.ipynb`.
-3. Open a terminal in that directory and start Jupyter:
+3. Open a terminal in that directory and start Jupyter or VS Code:
 
    ```bash
    jupyter notebook
